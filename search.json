@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Emmeline Coplan",
+    "section": "",
+    "text": "listing: {contents: projects, type: grid}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "cd portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
