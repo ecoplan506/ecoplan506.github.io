@@ -4,20 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Emmeline Coplan is a student at Carnegie Mellon pursuing her B.S. in Statistics and Data Science with a minor in Sonic Arts. She enjoys interdisciplenary work, especially in music and data visualizations. She is also skilled in software design and development, music production and performance, and storytelling."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Emmeline Coplan",
+    "title": "Projects",
     "section": "",
-    "text": "listing: {contents: projects, type: grid}"
+    "text": "Immigrant Representation in Elections\n\n\n\nR\n\nPolitics\n\n\n\nUses ANES survey data to compare immigrant participation and preference in presidential elections from 2012-2024\n\n\n\n\n\n\n\n\n\n\n\n\nIndicators of Pollution in Monteverde Streams\n\n\n\nR\n\nEcology\n\n\n\nMeasured BMWP index in local water and analysed against mulitible covariates\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/CR/index.html",
+    "href": "projects/CR/index.html",
+    "title": "Indicators of Pollution in Monteverde Streams",
+    "section": "",
+    "text": "Download the PDF"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Email: ecoplan24@hotmail.com"
+  },
+  {
+    "objectID": "projects/pol_paper/index.html",
+    "href": "projects/pol_paper/index.html",
+    "title": "Immigrant Representation in Elections",
+    "section": "",
+    "text": "Download the PDF"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "cd portfolio",
+    "title": "Emmeline Coplan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Emmeline is currently studying at Carnegie Mellon University, pursuing a B.S. in Statistics and Data Science with a minor in Sonic Arts. She specializes in large-scale statistical analytics and trend modeling with a dedication to safe innovation and discovery.\nContact"
   }
 ]
